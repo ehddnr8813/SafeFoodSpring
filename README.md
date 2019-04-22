@@ -16,9 +16,9 @@
 2. 상품 관련 기능
 
   - 상품명 / 제조사/ 코드 / 전체 목록
-    <img src="screenshot/mainpage.PNG">
-    <img src="screenshot/SearchByMaker.PNG">
-    <img src="screenshot/SearchByName.PNG">
+    <img src="image/mainpage.PNG">
+    <img src="image/SearchByMaker.PNG">
+    <img src="image/SearchByName.PNG">
     
   - 음식별 영양정보, 알레르기 및 영양 구성 조회
-    <img src="screenshot/detail.PNG">
+    <img src="image/detail.PNG">
